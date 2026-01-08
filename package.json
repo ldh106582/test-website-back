@@ -4,7 +4,10 @@
   "type": "module",
   "scripts": {
     "start": "node web.js",
-    "test": "jest"
+    "start:server": "node web.js",
+    "start:client": "vite",
+    "test": "jest",
+    "start:all": "concurrently \"npm run start:server\" \"npm run start:client\""
   },
   "dependencies": {
     "@genkit-ai/google-genai": "^1.22.0",
