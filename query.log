@@ -1,0 +1,1980 @@
+[2025-06-07T01:40:22.891Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-07T01:41:28.645Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-07T01:41:37.231Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-07T13:10:53.753Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-07T13:12:11.791Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-07T13:16:12.075Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-07T13:40:50.210Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-07T13:53:53.822Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:11:03.517Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:13:37.073Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:17:16.811Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:17:26.152Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:17:27.769Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:17:59.016Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:18:53.939Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:20:00.130Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:33:14.309Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:37:02.590Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:39:44.915Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:41:19.284Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T12:42:45.189Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-08T12:42:47.139Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T13:01:52.828Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T13:02:42.728Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-08T13:02:50.913Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-08T13:03:04.821Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-08T13:03:08.693Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-08T13:03:18.867Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T13:04:06.689Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T13:04:41.369Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T13:05:17.309Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T13:06:41.909Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T13:07:37.687Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-08T13:23:13.481Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:10:55.484Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:11:48.344Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:12:00.911Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:12:03.162Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:24:02.055Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:24:26.811Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:24:28.762Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:24:53.512Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:24:55.489Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:25:53.432Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:25:55.435Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:26:49.346Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:26:51.145Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:27:17.660Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:27:19.478Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:29:02.908Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:29:10.127Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:29:51.622Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:29:53.519Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:30:36.259Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:30:38.119Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:32:25.009Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:32:27.018Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:33:14.639Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-09T14:33:20.742Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-09T14:33:57.377Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:14:47.441Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:20:36.289Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:20:39.186Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:21:16.867Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:24:38.307Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:24:42.543Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:24:47.304Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:25:00.552Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:25:02.721Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:25:24.907Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:25:27.724Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:25:29.755Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:26:07.047Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:26:08.926Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:26:37.597Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:26:39.877Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:27:14.863Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:27:22.846Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:27:27.989Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:27:46.645Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:27:49.321Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:27:51.356Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:28:49.791Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:28:51.835Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:29:13.566Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:29:15.878Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:30:49.054Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:30:49.959Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:30:52.960Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:31:22.003Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:31:25.166Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:31:35.630Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:31:43.867Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:31:45.686Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:32:19.214Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:34:04.746Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:34:14.018Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:34:15.885Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-10T14:34:41.535Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-10T14:34:43.500Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:28:00.742Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:30:40.664Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:30:58.931Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:31:00.814Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:33:21.433Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:33:38.479Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:34:53.969Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:35:01.585Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:35:04.632Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:35:28.325Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:35:30.659Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:35:32.683Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:35:59.855Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:36:01.540Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:36:03.702Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:36:32.500Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:36:44.135Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:36:46.201Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:37:09.483Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:37:16.978Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:37:18.994Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:37:54.640Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:37:56.420Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:38:32.789Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:38:34.620Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:40:21.313Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:40:25.947Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:40:43.708Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:40:46.078Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:41:01.663Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:41:03.348Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:41:20.322Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:41:22.663Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:41:37.427Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:41:45.161Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-06-12T12:41:47.516Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-06-12T12:41:57.903Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-08-16T03:30:55.735Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-09-14T15:14:33.421Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = '주관식' LIMIT 20 OFFSET 0;
+[2025-09-14T15:14:37.802Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-09-14T15:14:47.960Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2022' LIMIT 20 OFFSET 0;
+[2025-09-14T15:14:52.028Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2021' LIMIT 20 OFFSET 0;
+[2025-09-14T15:16:41.932Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-14T15:16:41.935Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-14T15:21:59.783Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2021' LIMIT 20 OFFSET 0;
+[2025-09-14T15:23:12.561Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2020' LIMIT 20 OFFSET 0;
+[2025-09-16T14:02:51.975Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2020' LIMIT 20 OFFSET 0;
+[2025-09-16T14:04:18.987Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = '단답형' AND q.question_year = '2020' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-16T14:05:19.514Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:05:19.516Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:06:57.233Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = '단답형' AND q.question_year = '2020' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-16T14:07:48.595Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:07:48.597Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:07:54.355Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = '단답형' AND q.question_year = '2020' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-16T14:08:04.939Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = '단답형' AND q.question_year = '2020' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-16T14:08:27.542Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:08:27.544Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:08:49.243Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = '단답형' AND q.question_year = '2020' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-16T14:09:11.219Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:09:11.222Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:09:16.564Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = '단답형' AND q.question_year = '2020' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-16T14:10:04.058Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:10:04.060Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' AND q.question_type = 'undefined' AND q.question_year = 'undefined' AND q.question_round = 'undefined' LIMIT undefined OFFSET 0;
+[2025-09-16T14:10:32.152Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = '단답형' AND q.question_year = '2020' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-22T12:08:43.508Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-09-22T12:13:09.822Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-09-22T12:16:20.192Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-09-22T12:20:03.573Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-09-22T12:29:01.571Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-09-26T11:29:21.862Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND s.subject_id = '2' LIMIT 20 OFFSET 0;
+[2025-09-26T11:31:17.391Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2021' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-26T11:31:22.651Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2021' LIMIT 20 OFFSET 0;
+[2025-09-26T11:32:16.237Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2020' AND q.question_round = '2회차' LIMIT 20 OFFSET 0;
+[2025-09-26T11:32:32.103Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_year = '2020' AND q.question_round = '3회차' LIMIT 20 OFFSET 0;
+[2025-09-26T12:11:20.232Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' LIMIT 20 OFFSET 0;
+[2025-10-03T04:58:25.278Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = RAND() AND q.question_year = RAND() AND q.question_round = RAND() LIMIT 20 OFFSET 0;
+[2025-10-03T04:59:28.914Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = RAND() AND q.question_year = '2020' AND q.question_round = RAND() LIMIT 20 OFFSET 0;
+[2025-10-03T05:00:02.212Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = RAND() AND q.question_year = RAND() AND q.question_round = RAND() LIMIT 20 OFFSET 0;
+[2025-10-03T05:00:42.986Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = RAND() AND q.question_year = RAND() AND q.question_round = RAND() LIMIT 20 OFFSET 0;
+[2025-10-03T05:10:36.802Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = RAND() AND q.question_year = RAND() AND q.question_round = RAND() LIMIT 20 OFFSET 0;
+[2025-10-03T05:11:33.481Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' AND q.question_type = RAND() AND q.question_year = RAND() AND q.question_round = RAND() LIMIT 20 OFFSET 0;
+[2025-10-03T05:18:57.722Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' ORDER BY RAND() LIMIT 20 OFFSET 0;
+[2025-10-19T11:52:18.271Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '14' ORDER BY RAND() LIMIT 50 OFFSET 0;
+[2025-10-19T11:52:21.728Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' ORDER BY RAND() LIMIT 20 OFFSET 0;
+[2025-10-20T13:37:20.225Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '14' ORDER BY RAND() LIMIT 50 OFFSET 0;
+[2025-11-06T14:13:54.795Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' ORDER BY RAND() LIMIT 20 OFFSET 0;
+[2025-11-06T14:13:54.800Z] Manual Log - SELECT p.problem_id, p.problem, p.problem_image, p.answer,
+            q.question_id, q.question, q.question_point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' ORDER BY RAND() LIMIT 20 OFFSET 0;
+[2025-11-06T14:24:53.569Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '1' ORDER BY RAND() LIMIT 20 OFFSET 0;
+[2025-11-08T00:58:09.703Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '14' ORDER BY RAND() LIMIT 50 OFFSET 0;
+[2025-11-09T08:48:11.585Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '14' ORDER BY RAND() LIMIT 50 OFFSET 0;
+[2025-11-09T08:48:25.689Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '14' ORDER BY RAND() LIMIT 50 OFFSET 0;
+[2025-11-29T04:59:32.175Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '6' ORDER BY RAND() LIMIT 20 OFFSET 0;
+[2025-11-29T05:16:01.539Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '6' ORDER BY RAND() LIMIT 20 OFFSET 0;
+[2025-12-07T09:42:16.752Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '6' AND s.subject_id = '1' LIMIT 20 OFFSET 0;
+[2025-12-07T09:42:20.914Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '6' AND s.subject_id = '5' LIMIT 20 OFFSET 0;
+[2025-12-07T09:47:36.009Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = '6' AND s.subject_id = '5' LIMIT 20 OFFSET 0;
+[2025-12-07T09:50:20.814Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' ORDER BY RAND() LIMIT undefined OFFSET 0;
+[2025-12-07T09:50:20.823Z] Manual Log - SELECT p.problem_id, p.problem, p.image, p.answer,
+            q.question_id, q.question, q.point, e.exam_time, e.pass_score ,s.subject_id
+            FROM exams AS e
+            INNER JOIN problems AS p
+            ON p.exam_id = e.exam_id
+            INNER JOIN questions AS q
+            ON q.question_id = p.question_id
+            INNER join subjects AS s
+            ON s.subject_id = q.subject_id
+            WHERE e.exam_id = 'undefined' ORDER BY RAND() LIMIT undefined OFFSET 0;
