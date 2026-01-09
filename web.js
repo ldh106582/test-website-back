@@ -53,7 +53,11 @@ const storage = multer.diskStorage({
 });
 const upload = multer({ storage }); // multer 인스턴스 생성
 
-app.use(cors());
+app.use(cors(
+    '144.24.83.203',
+    'exam-website-fe211.web.app',
+    'exam-website-fe211.firebaseapp.com'
+));
 app.use(express.json());
 
 //#region email
