@@ -53,19 +53,20 @@ const storage = multer.diskStorage({
 });
 const upload = multer({ storage }); // multer 인스턴스 생성
 
-// app.use(cors({
-//     origin: [
-//         'https://exam-website-fe211.web.app',
-//         'https://exam-website-fe211.firebaseapp.com',
-//         'https://examsite.duckdns.org'
-//     ],
-//     credentials: true
-// }));
-
 app.use(cors({
-    origin: true,
+    origin: [
+        'https://exam-website-fe211.web.app',
+        'https://exam-website-fe211.firebaseapp.com',
+        'examwebsite-1993.duckdns.org',
+        '134.185.117.189'
+    ],
     credentials: true
 }));
+
+// app.use(cors({
+//     origin: true,
+//     credentials: true
+// }));
 app.use(express.json());
 
 //#region email
