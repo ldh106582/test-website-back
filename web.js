@@ -56,7 +56,8 @@ const upload = multer({ storage }); // multer 인스턴스 생성
 app.use(cors(
     '144.24.83.203',
     'exam-website-fe211.web.app',
-    'exam-website-fe211.firebaseapp.com'
+    'exam-website-fe211.firebaseapp.com',
+    'http://examsite.duckdns.org'
 ));
 app.use(express.json());
 
