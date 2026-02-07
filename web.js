@@ -41,6 +41,10 @@ const secretKey = 'MySecret Key';
 
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
+app.get('/', (req, res) => {
+    res.send('Server is running');
+});
+
 const storage = multer.diskStorage({
     destination: (req, file, cb) => {
         cb(null, uploadPath); // 업로드 경로
@@ -104,9 +108,9 @@ app.get('/member-check', (req, res) => {
 app.post('/login', (req, res) => {
     const user_id = req.body.userId;
     const user_pw = req.body.userPw;
-    let params = [user_id, user_pw];
+    const params = [user_id, user_pw];
 
-    let query = 'SELECT * FROM member WHERE user_id = ? AND user_pw = ?';
+    const query = 'SELECT * FROM member WHERE user_id = ? AND user_pw = ?';
 
     pool.query(query, params, (error, rows) => {
         if (error || rows.length === 0) {
@@ -615,7 +619,7 @@ app.get('/question-problem-group-desc', (req, res) => {
 
 });
 
-app.get('/qeustion-with-problem', async (req, res) => {
+app.get('/question-with-problem', async (req, res) => {
     const subject_id = req.query.subject_id;
     const exam_id = req.query.exam_id;
 
