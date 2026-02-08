@@ -18,7 +18,7 @@ jobs:
           username: "ubuntu"
           key: ${{ secrets.OCI_SSH_KEY }}
           script: |
-            cd /home/opc/test-website-back
+            cd /home/ubuntu/test-website-back
             git fetch --all
             git reset --hard origin/main
             npm install
