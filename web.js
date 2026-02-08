@@ -65,7 +65,7 @@ app.use(cors({
         'https://134.185.117.189',
         'http://134.185.117.189',
         'http://examwebsite-1993.duckdns.org',
-        'test2'
+        'test3'
     ],
     credentials: true
 }));
