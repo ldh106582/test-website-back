@@ -19,6 +19,7 @@ jobs:
           key: ${{ secrets.OCI_SSH_KEY }}
           script: |
             cd /home/opc/test-website-back
-            git pull origin main
+            git fetch --all
+            git reset --hard origin/main
             npm install
             pm2 restart all
