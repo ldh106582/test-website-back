@@ -62,7 +62,8 @@ app.use(cors({
         'https://exam-website-fe211.web.app',
         'https://exam-website-fe211.firebaseapp.com',
         'https://examwebsite-1993.duckdns.org',
-        '134.185.117.189'
+        '134.185.117.189',
+        'http://examwebsite-1993.duckdns.org'
     ],
     credentials: true
 }));
