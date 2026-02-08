@@ -16,7 +16,7 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           username: "ubuntu"
-          key: ${{ secrets.SSH_KEY }}
+          key: ${{ secrets.OCI_SSH_KEY }}
           script: |
             cd /home/opc/test-website-back
             git pull origin main
